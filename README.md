@@ -1,2 +1,2 @@
 # viture-ultra-xr-glasses
-connecting to usbs to use spacewalk app
+connecting to usb-c to use spacewalk app
